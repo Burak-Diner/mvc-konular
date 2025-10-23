@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta04\\webhafta04.web\\views\\kullanici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\kullanici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\views\\kullanici\\viewbagkullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\kullanici\\viewbagkullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\views\\kullanici\\tempdatakullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\kullanici\\tempdatakullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\views\\kullanici\\viewdatakullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\kullanici\\viewdatakullanici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\views\\kullanici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\kullanici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\webhafta04.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28642D1-4603-4B3E-8FBE-72A8F8002A72}|WebHafta04.Web\\WebHafta04.Web.csproj|solutionrelative:webhafta04.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\Listele.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\Kullanici\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\Listele.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\Kullanici\\Listele.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwHMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T11:18:01.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDataKullanici.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\ViewDataKullanici.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\Kullanici\\ViewDataKullanici.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\ViewDataKullanici.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\Kullanici\\ViewDataKullanici.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:57:13.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewBagKullanici.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\ViewBagKullanici.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\Kullanici\\ViewBagKullanici.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\ViewBagKullanici.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\Kullanici\\ViewBagKullanici.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:30:21.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\Kullanici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\Index.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\Kullanici\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:23:38.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "WebHafta04.Web\\Controllers\\KullaniciController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAD4v1gAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:08:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Models\\Kullanici.cs",
+              "RelativeToolTip": "WebHafta04.Web\\Models\\Kullanici.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:07:16.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TempDataKullanici.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\TempDataKullanici.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\Kullanici\\TempDataKullanici.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\Kullanici\\TempDataKullanici.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\Kullanici\\TempDataKullanici.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T11:05:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "RelativeToolTip": "WebHafta04.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T10:04:10.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaSayfaController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Controllers\\AnaSayfaController.cs",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Controllers\\AnaSayfaController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Controllers\\AnaSayfaController.cs",
+              "RelativeToolTip": "WebHafta04.Web\\Controllers\\AnaSayfaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:03:38.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WebHafta04.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta04\\WebHafta04.Web\\Program.cs",
+              "RelativeToolTip": "WebHafta04.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T10:00:47.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

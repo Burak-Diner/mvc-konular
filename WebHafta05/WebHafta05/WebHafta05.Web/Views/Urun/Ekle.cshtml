@@ -1,0 +1,24 @@
+﻿@using WebHafta05.Web.Helpers
+
+@model WebHafta05.Web.Models.UrunViewModel
+
+<form method="post" action="@Url.Action("Ekle","Urun")">
+    <input type="text" id="adi" name="adi" placeholder="Ürün adını giriniz" />
+    <input type="text" id="aciklama" name="aciklama" placeholder="Ürün açıklama giriniz" />
+    <input type="text" id="fiyat" name="fiyat" placeholder="Ürün fiyatı giriniz" />
+
+    <input type="submit" value="Gönder" />
+</form>
+<br /><br />
+
+@using (Html.BeginForm("Ekle","Urun", FormMethod.Post))
+{
+    @Html.TextBox("adi",null, new {placeholder="Ürün adını giriniz"}) <br />
+    @Html.TextBox("aciklama",null, new {placeholder="Ürün açıklamasını giriniz"}) <br />
+    @Html.TextBox("fiyat",null, new {placeholder="Ürün fiyatını giriniz"}) <br />
+    
+    @Html.RadioButton("stokdurum", 0, true, new { @class = "form-control",  }) <span>var</span> 
+    @Html.RadioButton("stokdurum", 1, false, new { @class = "form-control", }) <span>yok</span>
+    <br />
+    @Html.BanuTextBox("banutext","banuym","bölüm giriniz")
+}

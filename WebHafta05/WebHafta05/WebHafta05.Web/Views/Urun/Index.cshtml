@@ -1,0 +1,26 @@
+﻿
+
+@model List<WebHafta05.Web.Models.UrunViewModel>
+
+
+<table width="400" border="1">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Açıklama</th>
+            <th>Fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <td>@urun.Id</td>
+                <td>@urun.Adi</td>
+                <td>@urun.Aciklama</td>
+                <td>@urun.Fiyat</td>
+            </tr>
+        }
+    </tbody>
+</table>

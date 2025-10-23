@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebHafta03.Web/1.0.0": {
+        "runtime": {
+          "WebHafta03.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebHafta03.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

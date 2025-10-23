@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\views\\results\\viewresultsayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\views\\results\\viewresultsayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\controllers\\anasayfacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\views\\anasayfa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta03\\webhafta03.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43831DE6-7DE5-4C03-BF33-B94179282744}|WebHafta03.Web\\WebHafta03.Web.csproj|solutionrelative:webhafta03.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Models\\Urun.cs",
+              "RelativeToolTip": "WebHafta03.Web\\Models\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:49:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewResultSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Views\\Results\\ViewResultSayfa.cshtml",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Views\\Results\\ViewResultSayfa.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Views\\Results\\ViewResultSayfa.cshtml",
+              "RelativeToolTip": "WebHafta03.Web\\Views\\Results\\ViewResultSayfa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T10:37:49.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Controllers\\ResultsController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "WebHafta03.Web\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:32:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "RelativeToolTip": "WebHafta03.Web\\Views\\AnaSayfa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T10:24:49.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaSayfaController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Controllers\\AnaSayfaController.cs",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Controllers\\AnaSayfaController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Controllers\\AnaSayfaController.cs",
+              "RelativeToolTip": "WebHafta03.Web\\Controllers\\AnaSayfaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:24:28.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WebHafta03.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta03\\WebHafta03.Web\\Program.cs",
+              "RelativeToolTip": "WebHafta03.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:22:18.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

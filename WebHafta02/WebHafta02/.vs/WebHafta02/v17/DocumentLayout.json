@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\views\\urun\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\views\\urun\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\views\\home\\banuym.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\views\\home\\banuym.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\webhafta02\\webhafta02.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F018B8E5-7C80-440A-AB3A-9B1A55A5D154}|WebHafta02.Web\\WebHafta02.Web.csproj|solutionrelative:webhafta02.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Urun\\Listele.cshtml",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Views\\Urun\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Urun\\Listele.cshtml",
+              "RelativeToolTip": "WebHafta02.Web\\Views\\Urun\\Listele.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T11:23:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BanuYm.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Home\\BanuYm.cshtml",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Views\\Home\\BanuYm.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Home\\BanuYm.cshtml",
+              "RelativeToolTip": "WebHafta02.Web\\Views\\Home\\BanuYm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T11:09:48.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebHafta02.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T10:54:31.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebHafta02.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:47:29.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "WebHafta02.Web\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:19:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Models\\Urun.cs",
+              "RelativeToolTip": "WebHafta02.Web\\Models\\Urun.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:17:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\Program.cs",
+              "RelativeToolTip": "WebHafta02.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:36:46.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "WebHafta02.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta02\\WebHafta02.Web\\appsettings.json",
+              "RelativeToolTip": "WebHafta02.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T10:36:22.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
