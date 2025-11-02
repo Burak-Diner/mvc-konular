@@ -52,3 +52,61 @@
   ```
 - `Views/Urun/Index.cshtml` modelden gelen ürün listesini tablo halinde çizerek strongly typed Razor görünümü tekrar etti.
 - `Program.cs` tarafında varsayılan rota `{controller=Ana}/{action=Index}/{id?}` olarak belirlendi ve ana sayfadan ürün listesine `Url.Action` ile yönlendirme yapıldı.
+
+## Benzer Örnek: Strongly Typed Form ve Özel Helper
+- Form senaryolarında model doğrulamasını kolaylaştırmak için `EditorFor` ve özel HTML helper birlikte kullanılabilir. Örnek senaryoda sepet talebi alınıyor ve sık kullanılan alanlar için `SepetHtml` yardımcı metodu yazılıyor.
+  ```csharp
+  public class SepetController : Controller
+  {
+      [HttpGet]
+      public IActionResult Olustur() => View(new SiparisViewModel());
+
+      [HttpPost]
+      public IActionResult Olustur(SiparisViewModel model)
+      {
+          if (!ModelState.IsValid)
+          {
+              return View(model);
+          }
+
+          // Kayıt işlemleri...
+          ViewBag.Mesaj = $"{model.MusteriAdi} siparişi kaydedildi.";
+          return View("Tesekkur");
+      }
+  }
+
+  public class SiparisViewModel
+  {
+      [Required]
+      public string MusteriAdi { get; set; }
+
+      [Range(1, 10)]
+      public int Adet { get; set; }
+
+      public string Notlar { get; set; }
+  }
+
+  public static class SepetHtml
+  {
+      public static IHtmlContent LabelVeEditorFor<TModel, TValue>(this IHtmlHelper<TModel> helper, Expression<Func<TModel, TValue>> ifade)
+      {
+          var label = helper.LabelFor(ifade, new { @class = "form-label" });
+          var editor = helper.EditorFor(ifade, new { htmlAttributes = new { @class = "form-control" } });
+          return new HtmlContentBuilder().AppendHtml(label).AppendHtml(editor);
+      }
+  }
+  ```
+  ```cshtml
+  @model SiparisViewModel
+  @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+  @using WebHafta05.Web.Helpers
+
+  <form asp-action="Olustur" method="post">
+      @Html.LabelVeEditorFor(m => m.MusteriAdi)
+      @Html.LabelVeEditorFor(m => m.Adet)
+      <label asp-for="Notlar" class="form-label"></label>
+      <textarea asp-for="Notlar" class="form-control"></textarea>
+      <button type="submit" class="btn btn-primary">Kaydet</button>
+  </form>
+  ```
+- Yardımcı metot label ve editor bileşenlerini tek seferde üreterek kod tekrarını azaltır. `EditorFor` model meta verisinden yararlanıp doğrulama mesajlarını otomatik bağlar. Böylece form oluşturma mantığının yeniden kullanılabilir yapılarla nasıl zenginleştirilebileceği ortaya konur.

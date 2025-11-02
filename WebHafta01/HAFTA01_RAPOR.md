@@ -15,3 +15,16 @@
   app.Run();
   ```
 - Bu haftanın sonunda tarayıcıdan `/` adresine gidildiğinde "Hello World!" mesajı görülerek projenin çalıştığı doğrulandı.
+
+## Benzer Örnek: Parametreli Minimal API
+- Aynı yaklaşım farklı URL segmentleriyle dinamik içerik döndürmek için kullanılabilir. Aşağıdaki örnekte kullanıcının adını rota parametresi olarak alıp kişiselleştirilmiş mesaj üretildi.
+  ```csharp
+  var builder = WebApplication.CreateBuilder(args);
+  var app = builder.Build();
+
+  app.MapGet("/selam/{ad}", (string ad) => $"Merhaba {ad}, MVC dünyasına hoş geldin!");
+  app.MapGet("/toplam/{s1:int}/{s2:int}", (int s1, int s2) => new { Sonuc = s1 + s2 });
+
+  app.Run();
+  ```
+- `MapGet` çağrıları rota kalıplarıyla eşleşen HTTP GET isteklerini yakalar. İlk rota string parametre alırken ikinci rota `int` kısıtlaması sayesinde yalnızca sayısal değerleri kabul eder ve JSON sonuç döndürür. Böylece Minimal API yaklaşımıyla hızlı prototipler geliştirilebilir, daha sonra ihtiyaç olduğunda MVC katmanları eklenebilir.
