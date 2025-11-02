@@ -8,35 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gokhan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\burak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta01\\WebHafta01.Web\\WebHafta01.Web.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta01\\WebHafta01\\WebHafta01.Web\\WebHafta01.Web.csproj",
       "projectName": "WebHafta01.Web",
-      "projectPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta01\\WebHafta01.Web\\WebHafta01.Web.csproj",
-      "packagesPath": "C:\\Users\\gokhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta01\\WebHafta01.Web\\obj\\",
+      "projectPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta01\\WebHafta01\\WebHafta01.Web\\WebHafta01.Web.csproj",
+      "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta01\\WebHafta01\\WebHafta01.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gokhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -78,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

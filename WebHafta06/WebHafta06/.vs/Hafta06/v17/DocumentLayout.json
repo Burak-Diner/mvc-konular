@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\hafta06\\hafta06.web\\controllers\\anacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|solutionrelative:hafta06.web\\controllers\\anacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\hafta06\\hafta06.web\\views\\ana\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|solutionrelative:hafta06.web\\views\\ana\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\hafta06\\hafta06.web\\views\\ana\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|solutionrelative:hafta06.web\\views\\ana\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\hafta06\\hafta06.web\\views\\ana\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|solutionrelative:hafta06.web\\views\\ana\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\hafta06\\hafta06.web\\views\\ana\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8AFB935-F030-474B-B66F-623446E38893}|Hafta06.Web\\Hafta06.Web.csproj|solutionrelative:hafta06.web\\views\\ana\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "Hafta06.Web\\Views\\Ana\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Duzenle.cshtml",
+              "RelativeToolTip": "Hafta06.Web\\Views\\Ana\\Duzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T11:40:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Hafta06.Web\\Views\\Ana\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Ekle.cshtml",
+              "RelativeToolTip": "Hafta06.Web\\Views\\Ana\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T11:31:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Listele.cshtml",
+              "RelativeDocumentMoniker": "Hafta06.Web\\Views\\Ana\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Listele.cshtml",
+              "RelativeToolTip": "Hafta06.Web\\Views\\Ana\\Listele.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T11:23:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hafta06.Web\\Views\\Ana\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Views\\Ana\\Index.cshtml",
+              "RelativeToolTip": "Hafta06.Web\\Views\\Ana\\Index.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T10:11:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Controllers\\AnaController.cs",
+              "RelativeDocumentMoniker": "Hafta06.Web\\Controllers\\AnaController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Controllers\\AnaController.cs",
+              "RelativeToolTip": "Hafta06.Web\\Controllers\\AnaController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:10:53.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

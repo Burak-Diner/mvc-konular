@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebHafta04.Web
 build_property.RootNamespace = WebHafta04.Web
-build_property.ProjectDir = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\web programlama\WebHafta04\WebHafta04\WebHafta04.Web\
+build_property.ProjectDir = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\web programlama\WebHafta04\WebHafta04\WebHafta04.Web
+build_property.MSBuildProjectDirectory = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/AnaSayfa/Index.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/AnaSayfa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/Index.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/Listele.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/Listele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXExpc3RlbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/TempDataKullanici.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/TempDataKullanici.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXFRlbXBEYXRhS3VsbGFuaWNpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/ViewBagKullanici.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/ViewBagKullanici.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXFZpZXdCYWdLdWxsYW5pY2kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/web programlama/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/ViewDataKullanici.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta04/WebHafta04/WebHafta04.Web/Views/Kullanici/ViewDataKullanici.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXFZpZXdEYXRhS3VsbGFuaWNpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

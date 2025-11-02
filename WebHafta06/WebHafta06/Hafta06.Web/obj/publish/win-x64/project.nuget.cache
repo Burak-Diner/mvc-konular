@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2a6q9hLyDcneY7K7vDB4drNSWnIsQ8KZb2Y1ABAdS/oPVhzVRsTeHmBSBTaeQ2UH8bc5b2fWB2qV8pt2JFyhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Hafta06\\Hafta06.Web\\Hafta06.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokhan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.4\\microsoft.netcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\gokhan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\gokhan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

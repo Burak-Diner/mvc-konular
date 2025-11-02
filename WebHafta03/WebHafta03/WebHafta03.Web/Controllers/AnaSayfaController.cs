@@ -2,7 +2,7 @@
 
 namespace WebHafta03.Web.Controllers
 {
-    [NonController]
+/*     [NonController] */
     public class AnaSayfaController : Controller
     {
         public IActionResult Index()
@@ -11,7 +11,7 @@ namespace WebHafta03.Web.Controllers
             return View(sonuc);
         }
 
-        [NonAction]
+   /*      [NonAction] */
         public int Topla(int s1, int s2)
         {
             return s1 + s2;

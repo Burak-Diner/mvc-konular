@@ -1,0 +1,7 @@
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\Hafta06.Web.exe
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\Hafta06.Web.dll
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\Hafta06.Web.deps.json
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\Hafta06.Web.runtimeconfig.json
+C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\obj\Release\net8.0\PubTmp\Out\Hafta06.Web.pdb

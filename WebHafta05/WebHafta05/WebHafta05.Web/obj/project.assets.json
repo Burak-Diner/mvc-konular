@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta05\\WebHafta05\\WebHafta05.Web\\WebHafta05.Web.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta05\\WebHafta05\\WebHafta05.Web\\WebHafta05.Web.csproj",
       "projectName": "WebHafta05.Web",
-      "projectPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta05\\WebHafta05\\WebHafta05.Web\\WebHafta05.Web.csproj",
+      "projectPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta05\\WebHafta05\\WebHafta05.Web\\WebHafta05.Web.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta05\\WebHafta05\\WebHafta05.Web\\obj\\",
+      "outputPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta05\\WebHafta05\\WebHafta05.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config"

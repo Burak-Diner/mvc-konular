@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj": {}
+    "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj": {
+    "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj",
         "projectName": "WebHafta04.Web",
-        "projectPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta04\\WebHafta04\\WebHafta04.Web\\WebHafta04.Web.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\web programlama\\WebHafta04\\WebHafta04\\WebHafta04.Web\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\4. sınıf 1. dönem dersler\\mvc konular\\WebHafta04\\WebHafta04\\WebHafta04.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
