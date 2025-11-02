@@ -45,3 +45,42 @@
   ```
 - `Views/Kullanici/Index.cshtml`, `ViewBagKullanici.cshtml`, `ViewDataKullanici.cshtml` ve `TempDataKullanici.cshtml` sayfaları veri taşıma türleri arasındaki farkları tekil örneklerle pekiştirdi.
 - `Models/Kullanici.cs` sınıfı ortak veri yapısını sağlayarak kod tekrarını azaltan basit bir POCO (Plain Old CLR Object) olarak kullanıldı.
+
+## Benzer Örnek: TempData ile Bildirim Gösterme
+- `TempData` kısa süreli mesajlar için idealdir. Aşağıdaki senaryoda form gönderildikten sonra kullanıcıyı bilgilendiren bir bildirim `TempData` üzerinden sonraki aksiyona taşınıyor.
+  ```csharp
+  public class HesapController : Controller
+  {
+      [HttpPost]
+      public IActionResult Kaydet(HesapViewModel model)
+      {
+          // Kayıt işlemleri...
+          TempData["BildirimMesaji"] = $"{model.Ad} hesabı başarıyla oluşturuldu.";
+          TempData["BildirimTuru"] = "success";
+          return RedirectToAction(nameof(Sonuc));
+      }
+
+      public IActionResult Sonuc()
+      {
+          ViewBag.Mesaj = TempData["BildirimMesaji"];
+          ViewBag.Tur = TempData["BildirimTuru"] ?? "info";
+          return View();
+      }
+  }
+
+  public record HesapViewModel(string Ad, string Eposta);
+  ```
+  ```cshtml
+  @* Views/Hesap/Sonuc.cshtml *@
+  @if (ViewBag.Mesaj is not null)
+  {
+      <div class="alert alert-@ViewBag.Tur">
+          @ViewBag.Mesaj
+      </div>
+  }
+  else
+  {
+      <p>Gösterilecek bir bildirim bulunamadı.</p>
+  }
+  ```
+- `Kaydet` aksiyonu işlemi tamamladıktan sonra `TempData` anahtarlarına mesaj ve tür bilgisini yazar. Yönlendirme sonucu tetiklenen `Sonuc` aksiyonu aynı veriyi okuyup ViewBag'e aktarır. Razor tarafında koşullu blok ile mesaj varsa gösterilir, yoksa alternatif içerik sunulur. Böylece `TempData` kullanarak tek seferlik bildirimlerin nasıl yönetileceği ve çalışma mantığı vurgulanır.

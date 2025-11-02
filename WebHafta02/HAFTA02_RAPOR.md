@@ -62,3 +62,41 @@
   </table>
   ```
 - `Views/Home/Index.cshtml` dosyasında modelden gelen sonuç ve diğer sayfalara bağlantılar gösterildi; Razor sözdizimi ile model kullanımı pekiştirildi.
+
+## Benzer Örnek: Alternatif Rota ve ViewModel Kullanımı
+- MVC rotaları farklı varsayılan controller/action ikilileriyle genişletilebilir. Aşağıdaki örnekte `KategoriController` için özel bir rota tanımlanıyor ve kategori listesi tip güvenli bir görünümle sunuluyor.
+  ```csharp
+  // Program.cs
+  app.MapControllerRoute(
+      name: "kategori",
+      pattern: "kategoriler/{action=Liste}",
+      defaults: new { controller = "Kategori" });
+  ```
+  ```csharp
+  public class KategoriController : Controller
+  {
+      public IActionResult Liste()
+      {
+          var kategoriler = new List<KategoriViewModel>
+          {
+              new(1, "Elektronik", 12),
+              new(2, "Kitap", 34),
+              new(3, "Ev Yaşam", 9)
+          };
+          return View(kategoriler);
+      }
+  }
+
+  public record KategoriViewModel(int Id, string Ad, int UrunAdedi);
+  ```
+  ```cshtml
+  @model IEnumerable<KategoriViewModel>
+  <h2>Kategori Listesi</h2>
+  <ul>
+      @foreach (var kategori in Model)
+      {
+          <li>@kategori.Ad (@kategori.UrunAdedi ürün)</li>
+      }
+  </ul>
+  ```
+- Rota kalıbı `/kategoriler` isteğini doğrudan `KategoriController.Liste` aksiyonuna düşürür. View tarafında `record` tipinden gelen model kullanılarak Razor ile kolayca liste oluşturulur. Böylece MVC katmanları arasındaki veri akışı ve rota özelleştirmesi pekiştirilmiş olur.
