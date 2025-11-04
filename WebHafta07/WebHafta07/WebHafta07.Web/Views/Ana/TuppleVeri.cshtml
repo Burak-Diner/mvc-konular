@@ -1,0 +1,22 @@
+﻿
+@model (WebHafta07.Web.Models.Kullanici k, WebHafta07.Web.Models.Urun u)
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<p>@Model.k.KullaniciId</p>
+<p>@Model.k.KullaniciAdi</p>
+<p>@Model.k.KullaniciMail</p>
+<p>@Model.u.UrunId</p>
+<p>@Model.u.UrunAdi</p>
+<p>@Model.u.UrunFiyat</p>
+
+<form method="post" asp-controller="Ana" asp-action="TuppleVeri">
+    <input type="text" asp-for="@Model.k.KullaniciId" placeholder="Kullanıcı id giriniz.." /><br />
+    <input type="text" asp-for="@Model.k.KullaniciAdi" placeholder="Kullanıcı adı giriniz.." /><br />
+    <input type="text" asp-for="@Model.k.KullaniciMail" placeholder="Kullanıcı mail giriniz.." /><br />
+    <input type="text" asp-for="@Model.u.UrunId" placeholder="Urun id giriniz.." /><br />
+    <input type="text" asp-for="@Model.u.UrunAdi" placeholder="Urun adını giriniz.." /><br />
+    <input type="text" asp-for="@Model.u.UrunFiyat" placeholder="Urun fiyatını giriniz.." /><br />
+    <input type="submit" value="Gönder" />
+</form>
