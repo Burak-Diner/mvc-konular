@@ -1,0 +1,37 @@
+@model UrunViewModel
+@using Ornek.Web.Helpers
+@{
+    ViewData["Title"] = "Hafta 5";
+}
+
+<h1>Hafta 5 - Formlar ve HTML Helper</h1>
+<p>Özel yazdığımız <code>OrnekTextBox</code> helper'ı ile form oluşturuyoruz.</p>
+
+<form asp-action="Hafta5" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="UrunAdi" class="form-label"></label>
+        @Html.OrnekTextBox(nameof(Model.UrunAdi), Model.UrunAdi, "Ürün adı giriniz")
+        <span class="text-danger" asp-validation-for="UrunAdi"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Aciklama" class="form-label"></label>
+        @Html.OrnekTextBox(nameof(Model.Aciklama), Model.Aciklama ?? string.Empty, "Açıklama giriniz")
+    </div>
+    <div class="col-md-6">
+        <label asp-for="UrunFiyat" class="form-label"></label>
+        <input asp-for="UrunFiyat" class="form-control" />
+        <span class="text-danger" asp-validation-for="UrunFiyat"></span>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-success">Kaydet</button>
+    </div>
+</form>
+
+@if (ViewBag.Mesaj is string mesaj)
+{
+    <div class="alert alert-success mt-3">@mesaj</div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

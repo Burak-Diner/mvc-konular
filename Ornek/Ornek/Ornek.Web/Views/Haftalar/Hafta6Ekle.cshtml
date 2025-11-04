@@ -1,0 +1,31 @@
+@model UrunViewModel
+@{
+    ViewData["Title"] = "Hafta 6 - Ekle";
+}
+
+<h1>Hafta 6 - Yeni Ürün Ekle</h1>
+
+<form asp-action="Hafta6Ekle" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="UrunAdi" class="form-label"></label>
+        <input asp-for="UrunAdi" class="form-control" />
+        <span asp-validation-for="UrunAdi" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Aciklama" class="form-label"></label>
+        <input asp-for="Aciklama" class="form-control" />
+    </div>
+    <div class="col-md-4">
+        <label asp-for="UrunFiyat" class="form-label"></label>
+        <input asp-for="UrunFiyat" class="form-control" />
+        <span asp-validation-for="UrunFiyat" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <button class="btn btn-success" type="submit">Kaydet</button>
+        <a class="btn btn-link" asp-action="Hafta6Liste">Vazgeç</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

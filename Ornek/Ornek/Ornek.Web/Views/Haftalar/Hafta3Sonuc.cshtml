@@ -1,0 +1,9 @@
+@model string
+@{
+    ViewData["Title"] = "Hafta 3 Sonuç";
+}
+
+<div class="alert alert-success">
+    <h2>@(ViewBag.SonucTuru ?? "Sonuç")</h2>
+    <p>@Model</p>
+</div>

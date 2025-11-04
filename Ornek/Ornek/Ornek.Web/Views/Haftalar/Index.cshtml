@@ -1,0 +1,47 @@
+@model IReadOnlyList<HaftaOzetModel>
+@{
+    ViewData["Title"] = "Özet";
+}
+
+<okul-logo metin="Örnek MVC"></okul-logo>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <h1 class="card-title">Haftalık İçerik Özeti</h1>
+        <p class="card-text">Aşağıdaki liste, her haftanın ana konularını ve detay sayfalarına bağlantıları içerir.</p>
+        <div class="table-responsive">
+            <table class="table table-bordered align-middle">
+                <thead class="table-success">
+                    <tr>
+                        <th>Hafta</th>
+                        <th>Başlık</th>
+                        <th>Açıklama</th>
+                        <th>Konular</th>
+                        <th>Detay</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var hafta in Model)
+                    {
+                        <tr>
+                            <td>@hafta.HaftaNo</td>
+                            <td>@hafta.Baslik</td>
+                            <td>@hafta.Aciklama</td>
+                            <td>
+                                <ul class="mb-0">
+                                    @foreach (var konu in hafta.Konular)
+                                    {
+                                        <li>@konu</li>
+                                    }
+                                </ul>
+                            </td>
+                            <td>
+                                <a class="btn btn-outline-success btn-sm" href="@hafta.Url">İncele</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

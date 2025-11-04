@@ -1,0 +1,40 @@
+@model IReadOnlyList<WebHafta07.Web.Models.HaftaOzeti>
+
+<h1>Haftalık İçerik Özeti</h1>
+<p>İlk yedi haftada ele alınan konuların kısa bir özeti aşağıdadır. Her satır ilgili haftanın ana fikirlerini ve tekrar için göz atılabilecek projeyi gösterir.</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Hafta</th>
+            <th>Başlık</th>
+            <th>Özet</th>
+            <th>Kazanımlar</th>
+            <th>İlgili Proje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hafta in Model)
+        {
+            <tr>
+                <td>@hafta.HaftaNo</td>
+                <td>@hafta.Baslik</td>
+                <td>@hafta.OzAciklama</td>
+                <td>
+                    <ul>
+                        @foreach (var konu in hafta.Kazanimlar)
+                        {
+                            <li>@konu</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    @if (!string.IsNullOrWhiteSpace(hafta.IlgiliProje))
+                    {
+                        <code>@hafta.IlgiliProje</code>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
