@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Hafta 3";
+}
+
+<h1>Hafta 3 - Action Result Türleri</h1>
+<p>Bu sayfadan farklı <code>IActionResult</code> türlerini inceleyebilirsiniz. Aşağıdaki bağlantılardan birini seçin:</p>
+<ul>
+    <li><a asp-action="Hafta3Sonuc" asp-route-id="1">ViewResult örneği</a></li>
+    <li><a asp-action="Hafta3Sonuc" asp-route-id="2">PartialViewResult örneği</a></li>
+    <li><a asp-action="Hafta3Sonuc" asp-route-id="3">JsonResult örneği</a></li>
+    <li><a asp-action="Hafta3Sonuc" asp-route-id="4">ContentResult örneği</a></li>
+    <li><a asp-action="Hafta3Sonuc" asp-route-id="5">EmptyResult örneği</a></li>
+</ul>
+
+@if (TempData["Hafta3Uyari"] is string uyari)
+{
+    <div class="alert alert-warning">@uyari</div>
+}

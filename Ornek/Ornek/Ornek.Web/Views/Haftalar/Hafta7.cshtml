@@ -1,0 +1,49 @@
+@model RequestInfoModel
+@{
+    ViewData["Title"] = "Hafta 7";
+}
+
+<h1>Hafta 7 - HTTP İstek Verileri</h1>
+<p>Bu sayfa, gelen isteğin route, query string ve header bilgilerini gösterir.</p>
+
+<section class="mb-4">
+    <h2>Query String</h2>
+    @if (Model.Query.Count == 0)
+    {
+        <p class="text-muted">Herhangi bir query parametresi gönderilmedi.</p>
+    }
+    else
+    {
+        <ul>
+        @foreach (var kv in Model.Query)
+        {
+            <li><strong>@kv.Key:</strong> @kv.Value</li>
+        }
+        </ul>
+    }
+</section>
+
+<section class="mb-4">
+    <h2>Headers</h2>
+    <div class="table-responsive">
+        <table class="table table-sm table-striped">
+            <thead>
+                <tr>
+                    <th>Header</th>
+                    <th>Değer</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var header in Model.Headers)
+            {
+                <tr>
+                    <td>@header.Key</td>
+                    <td>@header.Value</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+<p class="text-muted">İstek yolu: @Model.Path</p>

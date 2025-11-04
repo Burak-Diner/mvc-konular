@@ -1,0 +1,43 @@
+@model IEnumerable<UrunViewModel>
+@{
+    ViewData["Title"] = "Hafta 6 - Liste";
+}
+
+<h1>Hafta 6 - Ürün Listesi</h1>
+<p>Bu sayfa, in-memory koleksiyondaki ürünleri gösterir ve CRUD işlemlerine bağlantılar içerir.</p>
+
+@if (TempData["Hafta6Mesaj"] is string mesaj)
+{
+    <div class="alert alert-info">@mesaj</div>
+}
+
+<p>
+    <a class="btn btn-success" asp-action="Hafta6Ekle">Yeni Ürün Ekle</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ürün</th>
+            <th>Açıklama</th>
+            <th>Fiyat</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <td>@urun.UrunId</td>
+                <td>@urun.UrunAdi</td>
+                <td>@urun.Aciklama</td>
+                <td>@urun.UrunFiyat.ToString("C2")</td>
+                <td>
+                    <a class="btn btn-sm btn-outline-primary" asp-action="Hafta6Duzenle" asp-route-id="@urun.UrunId">Düzenle</a>
+                    <a class="btn btn-sm btn-outline-danger" asp-action="Hafta6Sil" asp-route-id="@urun.UrunId">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

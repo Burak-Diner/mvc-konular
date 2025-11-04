@@ -1,0 +1,41 @@
+@model KullaniciViewModel
+@{
+    ViewData["Title"] = "Hafta 4";
+}
+
+<h1>Hafta 4 - ViewBag, ViewData, TempData</h1>
+<p class="lead">Farklı veri paylaşım mekanizmalarını aynı sayfada gösteriyoruz.</p>
+
+<div class="row g-3">
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-header">Model</div>
+            <div class="card-body">
+                <p><strong>Id:</strong> @Model.KullaniciId</p>
+                <p><strong>Ad:</strong> @Model.Ad</p>
+                <p><strong>E-posta:</strong> @Model.Eposta</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-header">ViewBag</div>
+            <div class="card-body">
+                <p>@ViewBag.Bilgi</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100">
+            <div class="card-header">ViewData</div>
+            <div class="card-body">
+                <p>@ViewData["Aciklama"]</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (TempData["Bildirim"] is string bildirim)
+{
+    <div class="alert alert-primary mt-3">TempData: @bildirim</div>
+}
