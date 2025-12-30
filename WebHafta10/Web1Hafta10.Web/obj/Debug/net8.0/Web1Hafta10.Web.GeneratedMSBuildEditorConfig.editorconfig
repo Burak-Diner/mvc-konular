@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web1Hafta10.Web
+build_property.RootNamespace = Web1Hafta10.Web
+build_property.ProjectDir = C:\Users\gokhan\Desktop\Web1Hafta10\Web1Hafta10\Web1Hafta10.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gokhan\Desktop\Web1Hafta10\Web1Hafta10\Web1Hafta10.Web
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Hakkimizda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEhha2tpbWl6ZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXElsZXRpc2ltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Ana/Personel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXFBlcnNvbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/Layouts/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xfTWFpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokhan/Desktop/Web1Hafta10/Web1Hafta10/Web1Hafta10.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

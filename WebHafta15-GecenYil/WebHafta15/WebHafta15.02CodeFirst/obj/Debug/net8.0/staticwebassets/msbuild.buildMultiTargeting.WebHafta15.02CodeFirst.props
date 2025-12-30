@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebHafta15.02CodeFirst.props" />
+</Project>

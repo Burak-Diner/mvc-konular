@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\views\\home\\components\\kullanici\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\views\\home\\components\\kullanici\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\viewcomponents\\kullaniciviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\viewcomponents\\kullaniciviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\views\\yonetim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\views\\yonetim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\controllers\\yonetimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\controllers\\yonetimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta11\\web1hafta11.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C2769D-9ED7-4474-BBDA-7A92AD4843CE}|Web1Hafta11.Web\\Web1Hafta11.Web.csproj|solutionrelative:web1hafta11.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Home\\Components\\Kullanici\\Default.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Views\\Home\\Components\\Kullanici\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Home\\Components\\Kullanici\\Default.cshtml",
+              "RelativeToolTip": "Web1Hafta11.Web\\Views\\Home\\Components\\Kullanici\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:10:17.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\ViewComponents\\KullaniciViewComponent.cs",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\ViewComponents\\KullaniciViewComponent.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\ViewComponents\\KullaniciViewComponent.cs",
+              "RelativeToolTip": "Web1Hafta11.Web\\ViewComponents\\KullaniciViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:01:43.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Yonetim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Views\\Yonetim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Yonetim\\Index.cshtml",
+              "RelativeToolTip": "Web1Hafta11.Web\\Views\\Yonetim\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T10:36:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YonetimController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Controllers\\YonetimController.cs",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Controllers\\YonetimController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Controllers\\YonetimController.cs",
+              "RelativeToolTip": "Web1Hafta11.Web\\Controllers\\YonetimController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:35:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web1Hafta11.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T10:25:25.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web1Hafta11.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T10:19:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web1Hafta11.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T10:18:52.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web1Hafta11.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:14:43.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web1Hafta11.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta11\\Web1Hafta11.Web\\Program.cs",
+              "RelativeToolTip": "Web1Hafta11.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:14:06.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿@model WebHafta09.Web.Models.Kullanici
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+@if (ViewBag.Message != null || ViewBag.Message != "")
+{
+    <p>@ViewBag.Message</p>
+}
+
+<div asp-validation-summary="All">
+
+</div>
+
+<form asp-action="Ekle" asp-controller="Kullanici" method="post">
+    <input type="text"
+           asp-for="@Model.KullaniciAdi"
+           placeholder="Kullanıcı adını giriniz..." /> 
+    <span asp-validation-for="@Model.KullaniciAdi"></span> <br />
+
+    <input type="text"
+           asp-for="@Model.KullaniciSoyadi"
+           placeholder="Kullanıcı soyadını giriniz..." />
+    <span asp-validation-for="@Model.KullaniciSoyadi"></span> <br />
+
+    <input type="text"
+           asp-for="@Model.KullaniciEmail"
+           placeholder="Kullanıcı emailini giriniz..." />
+    <span asp-validation-for="@Model.KullaniciEmail"></span> <br />
+
+    <input type="submit" value="Gönder" />
+</form>
+
+
+<script src="~/wwwroot/jquery/jquery.min.js"></script>
+<script src="~/wwwroot/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/wwwroot/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

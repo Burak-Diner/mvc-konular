@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ornek.Web
+build_property.RootNamespace = Ornek.Web
+build_property.ProjectDir = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\Ornek\Ornek\Ornek.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\Ornek\Ornek\Ornek.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGEzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta3Sonuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGEzU29udWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta6Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE2RHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta6Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE2RWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta6Liste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE2TGlzdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hafta7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGFmdGE3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Hata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Haftalar/_Hafta3Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFmdGFsYXJcX0hhZnRhM1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/Ornek/Ornek/Ornek.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

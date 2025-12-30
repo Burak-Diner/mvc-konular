@@ -1,12 +1,11 @@
-﻿
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @model Hafta06.Web.Models.UrunViewModel
 
 <a asp-action="Listele" asp-controller="Ana">Listeye Dön</a>
 
 <form asp-controller="Ana" asp-action="Ekle" method="post">
     <input type="text" placeholder="Ürün id giriniz" asp-for=@Model.UrunId />
-    <input type="text" placeholder="Ürün adı giriniz" asp-for=@Model.UrunAdi />
+    <input type="text" asp-for=@Model.UrunAdi />
     <input type="text" placeholder="Ürün fiyat giriniz" asp-for=@Model.UrunFiyat />
     <input type="submit" value="Kaydet" />
 </form>

@@ -9,31 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hafta06.Web
 build_property.RootNamespace = Hafta06.Web
-build_property.ProjectDir = C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web\
+build_property.ProjectDir = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta06\WebHafta06\Hafta06.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\Hafta06\Hafta06.Web
+build_property.MSBuildProjectDirectory = C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta06\WebHafta06\Hafta06.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gokhan/Desktop/WebProgramlamaI-2025-2026Guz/Hafta06/Hafta06.Web/Views/Ana/Duzenle.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta06/WebHafta06/Hafta06.Web/Views/Ana/Duzenle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXER1emVubGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokhan/Desktop/WebProgramlamaI-2025-2026Guz/Hafta06/Hafta06.Web/Views/Ana/Ekle.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta06/WebHafta06/Hafta06.Web/Views/Ana/Ekle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEVrbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokhan/Desktop/WebProgramlamaI-2025-2026Guz/Hafta06/Hafta06.Web/Views/Ana/Index.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta06/WebHafta06/Hafta06.Web/Views/Ana/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokhan/Desktop/WebProgramlamaI-2025-2026Guz/Hafta06/Hafta06.Web/Views/Ana/Listele.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta06/WebHafta06/Hafta06.Web/Views/Ana/Listele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXExpc3RlbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gokhan/Desktop/WebProgramlamaI-2025-2026Guz/Hafta06/Hafta06.Web/Views/Ana/Partials/AnaPartial.cshtml]
+[C:/Users/burak/Desktop/4. sınıf 1. dönem dersler/mvc konular/WebHafta06/WebHafta06/Hafta06.Web/Views/Ana/Partials/AnaPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hXFBhcnRpYWxzXEFuYVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

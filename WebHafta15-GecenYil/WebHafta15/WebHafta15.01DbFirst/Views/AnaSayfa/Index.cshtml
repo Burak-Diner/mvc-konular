@@ -1,0 +1,10 @@
+﻿@model List<WebHafta15._01DbFirst.Models.Urun>
+
+<h1>Hoşgeldiniz</h1>
+
+
+@foreach(var item in Model)
+{
+    <p>@item.UrunAdi - @item.Kat.KategoriAdi</p>
+   
+}

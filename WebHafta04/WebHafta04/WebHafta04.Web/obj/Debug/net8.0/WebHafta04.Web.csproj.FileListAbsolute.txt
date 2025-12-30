@@ -25,3 +25,31 @@ C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\WebHafta04\WebHafta04.Web\o
 C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.pdb
 C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.genruntimeconfig.cache
 C:\Users\gokhan\Desktop\WebProgramlamaI-2025-2026Guz\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\ref\WebHafta04.Web.dll
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\WebHafta04.Web.exe
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\WebHafta04.Web.deps.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\WebHafta04.Web.runtimeconfig.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\WebHafta04.Web.dll
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\bin\Debug\net8.0\WebHafta04.Web.pdb
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.AssemblyInfo.cs
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.RazorAssemblyInfo.cache
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.RazorAssemblyInfo.cs
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.sourcelink.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets\msbuild.WebHafta04.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.WebHafta04.Web.props
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebHafta04.Web.props
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebHafta04.Web.props
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\scopedcss\bundle\WebHafta04.Web.styles.css
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.dll
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\refint\WebHafta04.Web.dll
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.pdb
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\WebHafta04.Web.genruntimeconfig.cache
+C:\Users\burak\Desktop\4. sınıf 1. dönem dersler\mvc konular\WebHafta04\WebHafta04\WebHafta04.Web\obj\Debug\net8.0\ref\WebHafta04.Web.dll

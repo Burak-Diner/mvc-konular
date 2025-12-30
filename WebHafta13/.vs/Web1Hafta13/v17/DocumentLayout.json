@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020C4ED3-7AC2-4EF6-8F57-EE2507473165}|Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\web1hafta13\\web1hafta13.webentity\\web1hafta13.webentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{020C4ED3-7AC2-4EF6-8F57-EE2507473165}|Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj|solutionrelative:web1hafta13.webentity\\web1hafta13.webentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web1Hafta13.WebEntity",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta13\\Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj",
+              "RelativeDocumentMoniker": "Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta13\\Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj",
+              "RelativeToolTip": "Web1Hafta13.WebEntity\\Web1Hafta13.WebEntity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T11:29:01.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

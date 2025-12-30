@@ -1,0 +1,11 @@
+﻿@model Urun
+
+<form asp-controller="Ana" asp-action="Ekle" method="post">
+	<input type="text" asp-for="@Model.UrunId" placeholder="Ürün id giriniz..." /> <br />
+	<input type="text" asp-for="@Model.UrunAdi" placeholder="Ürün adı giriniz..." /> <br />
+	<input type="text" asp-for="@Model.UrunAciklama" placeholder="Ürün açıklama giriniz..." /> <br /> 
+	<input type="text" asp-for="@Model.UrunFiyat" placeholder="Ürün fiyatı giriniz..." /> <br />
+	<input type="submit" value="Gönder" />
+</form>
+
+

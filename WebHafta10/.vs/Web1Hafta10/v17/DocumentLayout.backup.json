@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\layouts\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\layouts\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\controllers\\anacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\controllers\\anacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\views\\ana\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\views\\ana\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|c:\\users\\gokhan\\desktop\\web1hafta10\\web1hafta10\\web1hafta10.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0BDCBE-70A2-4234-9DDC-61E343C55091}|Web1Hafta10.Web\\Web1Hafta10.Web.csproj|solutionrelative:web1hafta10.web\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Layouts\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Layouts\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Layouts\\_MainLayout.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Layouts\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:36:18.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:31:47.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Hakkimizda.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Hakkimizda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:20:54.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Iletisim.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Iletisim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:19:42.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Blog.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:19:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personel.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Personel.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Personel.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Personel.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Personel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:19:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Index.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:06:38.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:00:14.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Views\\Ana\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Views\\Ana\\Ekle.cshtml",
+              "RelativeToolTip": "Web1Hafta10.Web\\Views\\Ana\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:59:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Models\\Urun.cs",
+              "RelativeToolTip": "Web1Hafta10.Web\\Models\\Urun.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:57:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Controllers\\AnaController.cs",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Controllers\\AnaController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Controllers\\AnaController.cs",
+              "RelativeToolTip": "Web1Hafta10.Web\\Controllers\\AnaController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:56:41.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web1Hafta10.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\Web1Hafta10\\Web1Hafta10\\Web1Hafta10.Web\\Program.cs",
+              "RelativeToolTip": "Web1Hafta10.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:54:18.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

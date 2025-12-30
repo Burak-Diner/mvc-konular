@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebHafta15.01DbFirst.props" />
+</Project>

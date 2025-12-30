@@ -6,7 +6,7 @@ namespace WebHafta02.Web.Controllers
     {
         public IActionResult Index()
         {
-            int a = 5;
+            int a = 2;
             int b = 15;
             int sonuc = a * b;
             return View(sonuc);

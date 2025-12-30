@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dm4cUa6nscHnAmodBDeRTNy1Dp82TqEoqmNluPt7XHAmgPkegahrtqG+J7iErrFpSBF9q83equZyXjCyY2gJzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\WebHafta09\\WebHafta09.Web\\WebHafta09.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokhan\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\gokhan\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\gokhan\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\gokhan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

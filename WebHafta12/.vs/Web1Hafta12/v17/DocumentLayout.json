@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\web1hafta12\\web1hafta12.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|solutionrelative:web1hafta12.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\web1hafta12\\web1hafta12.web\\extensions\\banuextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|solutionrelative:web1hafta12.web\\extensions\\banuextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\web1hafta12\\web1hafta12.web\\middlewares\\banumiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|solutionrelative:web1hafta12.web\\middlewares\\banumiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|c:\\users\\gokhan\\desktop\\webprogramlamai-2025-2026guz\\web1hafta12\\web1hafta12.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B64EBFE-C718-42F8-866E-B583B1796C4D}|Web1Hafta12.Web\\Web1Hafta12.Web.csproj|solutionrelative:web1hafta12.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BanuExtension.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Extensions\\BanuExtension.cs",
+              "RelativeDocumentMoniker": "Web1Hafta12.Web\\Extensions\\BanuExtension.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Extensions\\BanuExtension.cs",
+              "RelativeToolTip": "Web1Hafta12.Web\\Extensions\\BanuExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:26:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BanuMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Middlewares\\BanuMiddleware.cs",
+              "RelativeDocumentMoniker": "Web1Hafta12.Web\\Middlewares\\BanuMiddleware.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Middlewares\\BanuMiddleware.cs",
+              "RelativeToolTip": "Web1Hafta12.Web\\Middlewares\\BanuMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:22:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web1Hafta12.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web1Hafta12.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:39:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web1Hafta12.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gokhan\\Desktop\\WebProgramlamaI-2025-2026Guz\\Web1Hafta12\\Web1Hafta12.Web\\Program.cs",
+              "RelativeToolTip": "Web1Hafta12.Web\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:25:37.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

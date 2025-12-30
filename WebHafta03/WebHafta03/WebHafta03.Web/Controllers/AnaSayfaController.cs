@@ -14,7 +14,7 @@ namespace WebHafta03.Web.Controllers
    /*      [NonAction] */
         public int Topla(int s1, int s2)
         {
-            return s1 + s2;
+            return 0;
         }
     }
 }
